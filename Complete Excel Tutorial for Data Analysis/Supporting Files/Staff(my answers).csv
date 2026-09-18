@@ -1,0 +1,266 @@
+﻿Index,Emp ID,First Name,Middle Name,Last Name,Gender,Department,Salary,Salary Bins,Start Date,FTE,Employee type,Work location,Tenure,Work Type
+1,PR00147,Minerva,,Ricardot,Male,Engineering,120000,Above 100K,2018-11-12 00:00:00,1,Permanent,Remote,7.75,Full Time
+2,PR04686,Oona,,Donan,Female,Business Development,98000,50K-100K,2019-09-02 00:00:00,0.9,Permanent,"Seattle, USA",6.94,Part Time
+3,SQ04612,Mick,,Spraberry,Female,Services,120000,Above 100K,2020-03-12 00:00:00,0.9,Permanent,Remote,6.42,Part Time
+4,VT01803,Freddy,,Linford,Female,Training,93128.34,50K-100K,2018-03-05 00:00:00,1,Fixed Term,"Seattle, USA",8.44,Full Time
+5,TN02749,Parasuramudu,,Jamakayala,Female,Training,57002.02,50K-100K,2018-04-02 00:00:00,0.7,Permanent,"Hyderabad, India",8.36,Part Time
+6,SQ00144,Collen,,Dunbleton,Male,Engineering,118976.16,Above 100K,2020-10-16 00:00:00,1,Permanent,"Wellington, New Zealand",5.82,Full Time
+7,PR04601,Yedukondalu,,Panditula,Missing,Support,104802.63,Above 100K,2021-11-02 00:00:00,1,Permanent,"Hyderabad, India",4.77,Full Time
+8,SQ01854,Jessica,,Callcott,Female,Marketing,66017.18,50K-100K,2019-06-27 00:00:00,0.9,Permanent,Remote,7.13,Part Time
+9,SQ00612,Leena,,Bruckshaw,Male,Research and Development,74279.01,50K-100K,2019-01-01 00:00:00,1,Permanent,"Wellington, New Zealand",7.61,Full Time
+10,PR00419,Billi,,Fellgate,Female,Business Development,68980.52,50K-100K,2019-01-29 00:00:00,0.8,Permanent,Remote,7.53,Part Time
+11,VT00578,Magnum,,Locksley,Female,Services,42314.39,Under 50K,2021-10-18 00:00:00,1,Fixed Term,Remote,4.81,Full Time
+12,TN01281,Cletus,,McGarahan,Female,Engineering,114425.19,Above 100K,2020-01-27 00:00:00,1,Permanent,"Wellington, New Zealand",6.54,Full Time
+13,PR04473,Wyn,,Treadger,Female,Business Development,69192.85,50K-100K,2021-04-19 00:00:00,1,Permanent,"Columbus, USA",5.31,Full Time
+14,VT02417,Evangelina,,Lergan,Male,Support,61214.26,50K-100K,2018-03-12 00:00:00,1,Temporary,"Auckland, New Zealand",8.42,Full Time
+15,SQ00691,Verla,,Timmis,Male,Support,54137.05,50K-100K,2019-10-25 00:00:00,1,Permanent,Remote,6.8,Full Time
+16,TN00214,Devsena,,Veluvalapalli,Female,Training,37902.35,Under 50K,2019-12-24 00:00:00,1,Permanent,"Chennai, India",6.63,Full Time
+17,VT02539,Devinne,,Tuny,Male,Engineering,39969.72,Under 50K,2018-12-10 00:00:00,1,Temporary,"Columbus, USA",7.67,Full Time
+18,SQ04598,Pearla,,Beteriss,Male,Services,69913.39,50K-100K,2019-04-29 00:00:00,1,Permanent,Remote,7.29,Full Time
+19,TN00464,Gopal,,Venkata,Male,Research and Development,52748.63,50K-100K,2020-01-27 00:00:00,1,Permanent,"Chennai, India",6.54,Full Time
+20,PR00893,Vasavi,,Veeravasarapu,Male,Human Resources,50310.09,50K-100K,2021-03-30 00:00:00,0.4,Permanent,"Hyderabad, India",5.37,Part Time
+21,PR00882,Jill,,Shipsey,Male,Accounting,52963.65,50K-100K,2021-04-02 00:00:00,0.3,Permanent,"Columbus, USA",5.36,Part Time
+22,PR03445,Myrle,,Prandoni,Male,Sales,62195.47,50K-100K,2021-08-26 00:00:00,1,Permanent,Remote,4.96,Full Time
+23,TN03416,Seward,,Kubera,Male,Engineering,43329.22,Under 50K,2019-12-10 00:00:00,0.5,Fixed Term,Remote,6.67,Part Time
+24,TN00890,Mayur,,Kousika,Female,Training,71570.99,50K-100K,2021-02-22 00:00:00,0.5,Permanent,"Hyderabad, India",5.47,Part Time
+25,VT04137,Marissa,,Infante,Missing,Training,78840.23,50K-100K,2019-06-17 00:00:00,1,Temporary,Remote,7.15,Full Time
+26,PR02603,Dinanath,,Simhambhatla,Female,Human Resources,61994.76,50K-100K,2019-11-25 00:00:00,0.3,Permanent,"Hyderabad, India",6.71,Part Time
+27,PR03158,Danica,,Nayshe,Female,Services,89690.38,50K-100K,2018-04-16 00:00:00,1,Permanent,"Wellington, New Zealand",8.32,Full Time
+28,PR02288,Althea,,Bronger,Male,Product Management,104335.04,Above 100K,2020-02-13 00:00:00,1,Permanent,"Columbus, USA",6.49,Full Time
+29,VT03849,Leonidas,,Cavaney,Male,Accounting,52246.29,50K-100K,2019-04-18 00:00:00,1,Temporary,"Wellington, New Zealand",7.32,Full Time
+30,SQ01395,Dennison,,Crosswaite,Male,Legal,90697.67,50K-100K,2021-01-25 00:00:00,0.8,Permanent,"Seattle, USA",5.54,Part Time
+31,SQ02559,Aldrich,,Glenny,Male,Business Development,90884.32,50K-100K,2019-12-27 00:00:00,1,Permanent,"Columbus, USA",6.62,Full Time
+32,VT04627,Yvette,,Bett,Male,Human Resources,76320.44,50K-100K,2021-07-06 00:00:00,0.8,Temporary,Remote,5.1,Part Time
+33,VT03537,Renaldo,,Thomassin,Male,Business Development,73360.38,50K-100K,2020-05-21 00:00:00,1,Temporary,Remote,6.22,Full Time
+34,PR01662,Genevra,,Friday,Female,Research and Development,50449.46,50K-100K,2018-11-14 00:00:00,0.8,Permanent,"Auckland, New Zealand",7.74,Part Time
+35,VT02313,Thekla,,Lynnett,Male,Training,53949.26,50K-100K,2019-12-09 00:00:00,1,Temporary,"Columbus, USA",6.67,Full Time
+36,SQ01620,Westbrook,,Brandino,Male,Legal,113616.23,Above 100K,2018-06-04 00:00:00,1,Permanent,Remote,8.19,Full Time
+37,VT04681,Nickolai,,Artin,Female,Product Management,110906.35,Above 100K,2018-11-30 00:00:00,1,Temporary,"Wellington, New Zealand",7.7,Full Time
+38,TN04246,Shaylyn,,Ransbury,Female,Support,100371.31,Above 100K,2020-08-24 00:00:00,0.8,Fixed Term,"Auckland, New Zealand",5.96,Part Time
+39,TN02570,Grady,,Rochelle,Female,Accounting,69163.39,50K-100K,2018-10-24 00:00:00,1,Permanent,Remote,7.8,Full Time
+40,VT02801,Shellysheldon,,Mahady,Male,Training,114691.03,Above 100K,2020-07-27 00:00:00,1,Temporary,"Wellington, New Zealand",6.04,Full Time
+41,SQ01177,Nazeer,Basha,Mustafa,Male,Human Resources,86556.96,50K-100K,2020-09-30 00:00:00,1,Permanent,"Hyderabad, India",5.86,Full Time
+42,VT01740,Ginger,,Myott,Female,Services,31172.77,Under 50K,2019-07-19 00:00:00,1,Fixed Term,Remote,7.07,Full Time
+43,TN01876,Aileen,,McCritchie,Male,Business Development,80169.42,50K-100K,2020-08-10 00:00:00,1,Permanent,"Auckland, New Zealand",6,Full Time
+44,VT02313,Thekla,,Lynnett,Male,Training,53949.26,50K-100K,2019-12-09 00:00:00,1,Temporary,"Columbus, USA",6.67,Full Time
+45,VT03988,Venkat,,Kodi,Female,Support,58935.92,50K-100K,2019-09-09 00:00:00,1,Temporary,"Hyderabad, India",6.92,Full Time
+46,TN00227,Raghuveer,,Yettugunna,Female,Support,63555.73,50K-100K,2020-11-24 00:00:00,1,Permanent,"Chennai, India",5.71,Full Time
+47,VT01092,Tabby,,Astall,Male,Accounting,57419.35,50K-100K,2018-07-24 00:00:00,1,Fixed Term,"Auckland, New Zealand",8.05,Full Time
+48,TN03169,Doe,,Clubley,Female,Product Management,67818.14,50K-100K,2018-11-02 00:00:00,0.6,Fixed Term,Remote,7.78,Part Time
+49,SQ01402,Sahaj,,Jonnalagadda,Female,Engineering,44403.77,Under 50K,2018-11-12 00:00:00,1,Permanent,"Hyderabad, India",7.75,Full Time
+50,SQ00360,Orlando,,Gorstidge,Male,Marketing,40753.54,Under 50K,2018-02-21 00:00:00,0.6,Permanent,"Wellington, New Zealand",8.47,Part Time
+51,PR02208,Gowri,Sankar,Chakrala,Female,Training,102934.09,Above 100K,2021-04-29 00:00:00,1,Permanent,"Hyderabad, India",5.28,Full Time
+52,SQ01637,Joaquin,,McVitty,Male,Sales,68860.4,50K-100K,2019-02-12 00:00:00,0.4,Permanent,"Columbus, USA",7.5,Part Time
+53,TN03210,Suman,,Katte,Male,Training,79567.69,50K-100K,2018-06-21 00:00:00,1,Fixed Term,"Chennai, India",8.14,Full Time
+54,PR03844,Brose,,MacCorkell,Female,Human Resources,35943.62,Under 50K,2020-09-04 00:00:00,1,Permanent,"Columbus, USA",5.93,Full Time
+55,VT04093,Prasanna,Lakshmi,Payasam,Female,Training,116767.63,Above 100K,2020-04-28 00:00:00,0.4,Temporary,"Chennai, India",6.29,Part Time
+56,SQ02246,Matias,,Cormack,Male,Research and Development,85455.53,50K-100K,2020-01-09 00:00:00,1,Permanent,"Wellington, New Zealand",6.59,Full Time
+57,TN03032,Jaipal,,Potanapudi,Female,Research and Development,39700.82,Under 50K,2021-01-07 00:00:00,0.8,Permanent,"Chennai, India",5.59,Part Time
+58,SQ00914,Duran,,Appala,Female,Product Management,38438.24,Under 50K,2020-05-11 00:00:00,1,Permanent,"Chennai, India",6.25,Full Time
+59,SQ02525,Mickie,,Dagwell,Male,Engineering,50855.53,50K-100K,2021-01-25 00:00:00,1,Permanent,"Wellington, New Zealand",5.54,Full Time
+60,TN02667,Lizzie,,Mullally,Male,Support,0,Under 50K,2019-09-16 00:00:00,0.2,Permanent,"Auckland, New Zealand",6.9,Part Time
+61,PR02782,Isaak,,Rawne,Male,Marketing,37362.3,Under 50K,2019-06-26 00:00:00,1,Permanent,"Auckland, New Zealand",7.13,Full Time
+62,TN03331,Crawford,,Scad,Male,Human Resources,72876.91,50K-100K,2019-05-27 00:00:00,0.4,Fixed Term,"Auckland, New Zealand",7.21,Part Time
+63,VT01249,Brendan,,Edgeller,Female,Legal,31042.51,Under 50K,2021-10-04 00:00:00,0.3,Fixed Term,Remote,4.85,Part Time
+64,PR00576,Lalitchandra,,Vadali,Female,Legal,63705.4,50K-100K,2019-08-05 00:00:00,1,Permanent,"Hyderabad, India",7.02,Full Time
+65,VT02260,Rhiamon,,Mollison,Female,Research and Development,59434.18,50K-100K,2020-04-10 00:00:00,1,Temporary,"Seattle, USA",6.34,Full Time
+66,TN02883,John,,Joseph,Female,Sales,84762.76,50K-100K,2018-08-20 00:00:00,1,Permanent,"Hyderabad, India",7.98,Full Time
+67,SQ03024,Inge,,Creer,Female,Services,69057.32,50K-100K,2018-10-17 00:00:00,1,Permanent,"Wellington, New Zealand",7.82,Full Time
+68,TN04428,Tadio,,Audritt,Missing,Human Resources,99448.78,50K-100K,2019-01-08 00:00:00,1,Fixed Term,"Wellington, New Zealand",7.59,Full Time
+69,SQ03350,Felice,,McMurty,Female,Product Management,66865.49,50K-100K,2019-02-18 00:00:00,1,Permanent,"Seattle, USA",7.48,Full Time
+70,VT03421,Alic,,Bagg,Male,Legal,113747.56,Above 100K,2021-03-15 00:00:00,0.7,Temporary,"Columbus, USA",5.41,Part Time
+71,PR01346,Adolph,,McNalley,Male,Business Development,85918.61,50K-100K,2018-02-05 00:00:00,1,Permanent,"Columbus, USA",8.52,Full Time
+72,VT02118,Oorjit,,Nandanavanam,Female,Engineering,51165.37,50K-100K,2021-02-10 00:00:00,1,Fixed Term,"Hyderabad, India",5.5,Full Time
+73,TN02496,Ponnan,,Delhi,Missing,Human Resources,67957.9,50K-100K,2018-11-26 00:00:00,1,Permanent,"Chennai, India",7.71,Full Time
+74,VT02491,Alexis,,Gotfrey,Male,Engineering,114465.93,Above 100K,2018-07-10 00:00:00,1,Temporary,"Wellington, New Zealand",8.09,Full Time
+75,PR03980,Kath,,Bletsoe,Male,Marketing,65699.02,50K-100K,2020-04-30 00:00:00,1,Permanent,"Columbus, USA",6.28,Full Time
+76,VT03307,Tallie,,Chaikovski,Male,Sales,83191.95,50K-100K,2019-08-23 00:00:00,0.6,Temporary,Remote,6.97,Part Time
+77,TN04058,Subbarao,,Malladi,Male,Product Management,106775.14,Above 100K,2019-04-08 00:00:00,1,Fixed Term,"Hyderabad, India",7.35,Full Time
+78,VT03993,Dulce,,Colbeck,Male,Human Resources,83396.5,50K-100K,2021-03-30 00:00:00,1,Temporary,"Auckland, New Zealand",5.37,Full Time
+79,VT02663,Sravanthi,,Chalaki,Male,Legal,28481.16,Under 50K,2021-02-01 00:00:00,1,Temporary,"Chennai, India",5.52,Full Time
+80,PR03034,Sreenivasa,Naik,Gudiwada,Male,Sales,32192.15,Under 50K,2021-10-04 00:00:00,1,Permanent,"Hyderabad, India",4.85,Full Time
+81,PR01159,Mollie,,Hanway,Male,Engineering,112645.99,Above 100K,2019-10-21 00:00:00,0.6,Permanent,"Seattle, USA",6.81,Part Time
+82,SQ03476,Ramalingam,,Kothapeta,Missing,Accounting,107107.6,Above 100K,2018-08-13 00:00:00,0.9,Permanent,"Chennai, India",8,Part Time
+83,PR04380,Van,,Tuxwell,Female,Business Development,80695.74,50K-100K,2019-11-18 00:00:00,0.8,Permanent,"Columbus, USA",6.73,Part Time
+84,TN00182,Camilla,,Castle,Female,Product Management,75475.93,50K-100K,2019-11-25 00:00:00,1,Permanent,Remote,6.71,Full Time
+85,VT01523,Charmane,,Heistermann,Female,Business Development,86558.58,50K-100K,2020-02-26 00:00:00,1,Fixed Term,Remote,6.46,Full Time
+86,PR00916,Inger,,Chapelhow,Female,Research and Development,84309.95,50K-100K,2021-11-01 00:00:00,1,Permanent,Remote,4.78,Full Time
+87,PR01211,Enoch,,Dowrey,Male,Accounting,91645.04,50K-100K,2021-01-27 00:00:00,1,Permanent,"Auckland, New Zealand",5.54,Full Time
+88,VT01684,Audry,,Yu,Female,Training,101187.36,Above 100K,2018-06-07 00:00:00,1,Fixed Term,"Columbus, USA",8.18,Full Time
+89,TN01876,Aileen,,McCritchie,Male,Business Development,80169.42,50K-100K,2020-08-10 00:00:00,1,Permanent,"Auckland, New Zealand",6,Full Time
+90,TN04740,Tristam,,Cuming,Female,Support,104038.9,Above 100K,2019-12-16 00:00:00,1,Fixed Term,Remote,6.65,Full Time
+91,TN03575,Janina,,Wolverson,Female,Research and Development,99683.67,50K-100K,2019-02-04 00:00:00,1,Fixed Term,"Seattle, USA",7.52,Full Time
+92,VT04984,Dell,,Molloy,Male,Engineering,47362.62,Under 50K,2020-05-22 00:00:00,1,Temporary,Remote,6.22,Full Time
+93,PR00095,Devrat,,Damarsingh,Female,Business Development,70649.46,50K-100K,2020-01-13 00:00:00,1,Permanent,"Hyderabad, India",6.58,Full Time
+94,SQ03546,Amlankusum,,Rajabhushan,Female,Legal,75733.74,50K-100K,2021-07-05 00:00:00,1,Permanent,"Hyderabad, India",5.1,Full Time
+95,VT02374,Delphine,,Jewis,Female,Accounting,71823.56,50K-100K,2018-10-01 00:00:00,0.3,Temporary,Remote,7.86,Part Time
+96,SQ00450,Louise,,Lamming,Female,Sales,41934.71,Under 50K,2020-04-22 00:00:00,1,Permanent,Remote,6.3,Full Time
+97,PR03804,Pratigya,,Rema,Male,Legal,66572.58,50K-100K,2020-12-28 00:00:00,1,Permanent,"Chennai, India",5.62,Full Time
+98,SQ04488,Ramnath,,Ravuri,Male,Marketing,76932.6,50K-100K,2019-01-28 00:00:00,1,Permanent,"Hyderabad, India",7.54,Full Time
+99,TN00735,Caresa,,Christer,Male,Support,59258.19,50K-100K,2018-12-18 00:00:00,0.8,Permanent,"Seattle, USA",7.65,Part Time
+100,VT01893,Lindy,,Guillet,Male,Training,112778.28,Above 100K,2018-05-30 00:00:00,1,Fixed Term,Remote,8.2,Full Time
+101,SQ02223,Pippy,,Shepperd,Female,Accounting,44845.33,Under 50K,2018-06-26 00:00:00,1,Permanent,"Seattle, USA",8.13,Full Time
+102,PR02010,Prerana,,Nishita,Male,Product Management,115191.38,Above 100K,2020-06-22 00:00:00,1,Permanent,"Hyderabad, India",6.14,Full Time
+103,SQ00498,Amery,,Ofer,Female,Legal,111049.84,Above 100K,2021-07-16 00:00:00,1,Permanent,"Wellington, New Zealand",5.07,Full Time
+104,PR02113,Beverie,,Moffet,Female,Support,75974.99,50K-100K,2020-12-07 00:00:00,1,Permanent,Remote,5.68,Full Time
+105,TN00727,Dulsea,,Folkes,Female,Services,42161.77,Under 50K,2019-01-29 00:00:00,1,Permanent,"Auckland, New Zealand",7.53,Full Time
+106,SQ01697,Makshi,,Vinutha,Male,Business Development,71371.37,50K-100K,2018-10-19 00:00:00,1,Permanent,"Hyderabad, India",7.81,Full Time
+107,SQ01519,Caron,,Kolakovic,Male,Accounting,49915.14,Under 50K,2019-03-26 00:00:00,1,Permanent,Remote,7.38,Full Time
+108,PR00210,Marquita,,Liquorish,Female,Legal,0,Under 50K,2020-06-29 00:00:00,1,Permanent,"Wellington, New Zealand",6.12,Full Time
+109,VT03500,Shiuli,,Sapna,Male,Support,37062.1,Under 50K,2021-06-10 00:00:00,1,Temporary,"Chennai, India",5.17,Full Time
+110,SQ01962,Lezlie,,Philcott,Female,Research and Development,0,Under 50K,2019-02-08 00:00:00,1,Permanent,Remote,7.51,Full Time
+111,SQ02559,Aldrich,,Glenny,Male,Business Development,90884.32,50K-100K,2019-12-27 00:00:00,1,Permanent,"Columbus, USA",6.62,Full Time
+112,TN01210,Alyosha,,Riquet,Male,Legal,89838.77,50K-100K,2019-05-17 00:00:00,1,Permanent,Remote,7.24,Full Time
+113,SQ02051,Agrata,,Rajarama,Male,Legal,0,Under 50K,2021-09-23 00:00:00,1,Permanent,"Chennai, India",4.88,Full Time
+114,SQ03321,Gradey,,Litton,Female,Accounting,68887.84,50K-100K,2018-07-16 00:00:00,1,Permanent,Remote,8.07,Full Time
+115,TN04058,Vasu,,Nandin,Male,Product Management,106775.14,Above 100K,2019-04-08 00:00:00,1,Fixed Term,"Hyderabad, India",7.35,Full Time
+116,SQ00841,Bhuvan,,Pals,Female,Services,89690.38,50K-100K,2018-04-23 00:00:00,1,Permanent,"Hyderabad, India",8.3,Full Time
+117,SQ04603,Natalee,,Craiker,Male,Product Management,111229.47,Above 100K,2018-10-29 00:00:00,1,Permanent,Remote,7.79,Full Time
+118,TN01028,Alicea,,Pudsall,Male,Accounting,67633.85,50K-100K,2018-08-28 00:00:00,1,Permanent,"Columbus, USA",7.96,Full Time
+119,VT04028,Michale,,Rolf,Male,Services,111815.49,Above 100K,2020-03-05 00:00:00,0.7,Temporary,Remote,6.44,Part Time
+120,TN03068,Gumwant,,Veera,Male,Business Development,39784.24,Under 50K,2018-12-31 00:00:00,1,Fixed Term,"Chennai, India",7.61,Full Time
+121,VT03701,Narois,,Motiwala,Female,Product Management,89829.33,50K-100K,2019-11-25 00:00:00,1,Temporary,"Chennai, India",6.71,Full Time
+122,VT04028,Michale,,Rolf,Male,Services,111815.49,Above 100K,2020-03-05 00:00:00,0.7,Temporary,Remote,6.44,Part Time
+123,TN04101,Marline,,Wahncke,Male,Legal,72843.23,50K-100K,2018-06-29 00:00:00,1,Fixed Term,"Wellington, New Zealand",8.12,Full Time
+124,VT02374,Delphine,,Jewis,Female,Accounting,71823.56,50K-100K,2018-10-01 00:00:00,0.3,Temporary,Remote,7.86,Part Time
+125,TN01632,Katya,,Hundy,Male,Business Development,88511.17,50K-100K,2020-04-29 00:00:00,1,Permanent,"Columbus, USA",6.28,Full Time
+126,PR01956,Jamesy,,O'Ferris,Male,Accounting,36547.58,Under 50K,2018-11-12 00:00:00,1,Permanent,Remote,7.75,Full Time
+127,PR02140,Anjushri,,Chandiramani,Male,Accounting,95954.02,50K-100K,2019-04-12 00:00:00,0.3,Permanent,"Hyderabad, India",7.33,Part Time
+128,SQ03626,Krishnakanta,,Vellanki,Female,Training,95677.9,50K-100K,2021-07-19 00:00:00,0.3,Permanent,"Chennai, India",5.06,Part Time
+129,VT01610,Dhruv,,Manjunath,Female,Accounting,76303.82,50K-100K,2018-12-24 00:00:00,1,Fixed Term,"Hyderabad, India",7.63,Full Time
+130,TN01340,Granny,,Spencelayh,Male,Legal,99460.78,50K-100K,2020-05-05 00:00:00,1,Permanent,Remote,6.27,Full Time
+131,TN00698,Barbara-anne,,Kenchington,Female,Support,88034.67,50K-100K,2019-07-23 00:00:00,1,Permanent,Remote,7.05,Full Time
+132,SQ00960,Calvin,,O'Carroll,Female,Research and Development,44447.26,Under 50K,2020-01-16 00:00:00,0.4,Permanent,"Seattle, USA",6.57,Part Time
+133,SQ01998,Vanmala,,Shriharsha,Male,Product Management,40445.29,Under 50K,2021-07-16 00:00:00,1,Permanent,"Chennai, India",5.07,Full Time
+134,PR04446,Sameer,Shashank,Sapra,Female,Research and Development,92336.08,50K-100K,2021-08-23 00:00:00,1,Permanent,"Hyderabad, India",4.97,Full Time
+135,SQ01283,Barr,,Faughny,Female,Marketing,68008.55,50K-100K,2020-08-19 00:00:00,1,Permanent,"Auckland, New Zealand",5.98,Full Time
+136,SQ01026,Anumati,Shyamari,Meherhomji,Male,Product Management,74924.65,50K-100K,2021-02-12 00:00:00,1,Permanent,"Hyderabad, India",5.49,Full Time
+137,TN01912,Fred,,Dudeney,Male,Services,88689.09,50K-100K,2019-10-02 00:00:00,1,Permanent,"Seattle, USA",6.86,Full Time
+138,VT02319,Tarala,,Vishaal,Female,Research and Development,96555.53,50K-100K,2019-01-24 00:00:00,0.2,Temporary,"Hyderabad, India",7.55,Part Time
+139,SQ04960,Shubhra,,Potla,Female,Support,71924.85,50K-100K,2019-12-23 00:00:00,1,Permanent,"Chennai, India",6.64,Full Time
+140,SQ01829,Mabel,,Orrow,Male,Product Management,31241.24,Under 50K,2019-09-17 00:00:00,1,Permanent,Remote,6.9,Full Time
+141,SQ00022,Carlin,,Demke,Male,Business Development,110042.37,Above 100K,2020-03-24 00:00:00,1,Permanent,"Columbus, USA",6.38,Full Time
+142,TN00214,Hemavati,,Muthiah,Female,Training,37902.35,Under 50K,2019-12-24 00:00:00,1,Permanent,"Chennai, India",6.63,Full Time
+143,TN02798,Krittika,,Gaekwad,Female,Business Development,33031.26,Under 50K,2019-01-03 00:00:00,0.4,Permanent,"Hyderabad, India",7.61,Part Time
+144,VT02532,Adey,,Ryal,Female,Legal,32496.88,Under 50K,2018-05-14 00:00:00,1,Temporary,Remote,8.25,Full Time
+145,PR02321,Evanne,,Sheryn,Female,Services,81897.79,50K-100K,2018-02-15 00:00:00,1,Permanent,"Auckland, New Zealand",8.49,Full Time
+146,SQ03116,Syd,,Fearn,Male,Engineering,108872.77,Above 100K,2019-02-25 00:00:00,1,Permanent,Remote,7.46,Full Time
+147,SQ02638,Cara,,Havers,Male,Marketing,89605.13,50K-100K,2018-06-07 00:00:00,1,Permanent,"Seattle, USA",8.18,Full Time
+148,VT03704,Egor,,Minto,Missing,Legal,63447.07,50K-100K,2020-11-13 00:00:00,1,Temporary,"Wellington, New Zealand",5.74,Full Time
+149,VT04552,Theresita,,Chasmer,Female,Product Management,106665.67,Above 100K,2018-07-30 00:00:00,1,Temporary,"Columbus, USA",8.04,Full Time
+150,SQ04665,Collin,,Jagson,Male,Services,100424.23,Above 100K,2019-12-02 00:00:00,1,Permanent,"Auckland, New Zealand",6.69,Full Time
+151,VT00336,Shevantilal,,Muppala,Male,Services,47646.95,Under 50K,2019-11-22 00:00:00,0.3,Fixed Term,"Chennai, India",6.72,Part Time
+152,TN01256,Shattesh,,Utpat,Male,Legal,28481.16,Under 50K,2020-03-26 00:00:00,1,Permanent,"Hyderabad, India",6.38,Full Time
+153,PR03271,Stan,,Tolliday,Female,Sales,39535.49,Under 50K,2018-10-24 00:00:00,0.3,Permanent,Remote,7.8,Part Time
+154,VT01101,Adela,,Dowsett,Male,Support,95017.1,50K-100K,2018-07-02 00:00:00,1,Fixed Term,"Seattle, USA",8.11,Full Time
+155,TN04660,Thedrick,,Bothwell,Male,Business Development,69764.1,50K-100K,2020-12-30 00:00:00,1,Fixed Term,"Seattle, USA",5.61,Full Time
+156,VT00596,Letisha,,Carrett,Female,Sales,84598.88,50K-100K,2020-10-12 00:00:00,1,Fixed Term,"Seattle, USA",5.83,Full Time
+157,VT03552,Kamalakshi,,Mukundan,Male,Engineering,36536.26,Under 50K,2021-06-11 00:00:00,1,Temporary,"Hyderabad, India",5.17,Full Time
+158,TN00083,Chandana,Sannidhi,Surnilla,Female,Business Development,61688.77,50K-100K,2018-09-03 00:00:00,0.9,Permanent,"Chennai, India",7.94,Part Time
+159,SQ02643,Indu,Varada,Sumedh,Female,Engineering,88425.08,50K-100K,2019-07-16 00:00:00,1,Permanent,"Hyderabad, India",7.07,Full Time
+160,SQ00914,Karuna,,Pashupathy,Female,Product Management,38438.24,Under 50K,2020-05-11 00:00:00,1,Permanent,"Chennai, India",6.25,Full Time
+161,TN02674,Antonetta,,Coggeshall,Male,Sales,96753.78,50K-100K,2021-10-25 00:00:00,1,Permanent,"Auckland, New Zealand",4.79,Full Time
+162,VT01893,Lindy,,Guillet,Male,Training,112778.28,Above 100K,2018-05-30 00:00:00,1,Fixed Term,Remote,8.2,Full Time
+163,TN02727,Wald,,Bountiff,Female,Support,28974.03,Under 50K,2019-09-25 00:00:00,1,Permanent,"Auckland, New Zealand",6.88,Full Time
+164,VT01323,Mardav,,Ramaswami,Female,Business Development,86233.83,50K-100K,2019-08-29 00:00:00,1,Fixed Term,"Chennai, India",6.95,Full Time
+165,SQ03350,Felice,,McMurty,Female,Product Management,66865.49,50K-100K,2019-02-18 00:00:00,1,Permanent,"Seattle, USA",7.48,Full Time
+166,PR03886,Edd,,MacKnockiter,Male,Accounting,119022.49,Above 100K,2021-08-23 00:00:00,1,Permanent,"Auckland, New Zealand",4.97,Full Time
+167,PR00746,Hogan,,Iles,Female,Accounting,114177.23,Above 100K,2020-03-18 00:00:00,1,Permanent,"Wellington, New Zealand",6.4,Full Time
+168,SQ03387,Robinia,,Scholling,Female,Human Resources,100731.95,Above 100K,2020-04-15 00:00:00,1,Permanent,"Auckland, New Zealand",6.32,Full Time
+169,SQ00105,Sarayu,,Ragunathan,Female,Training,86010.54,50K-100K,2018-03-05 00:00:00,1,Permanent,"Chennai, India",8.44,Full Time
+170,SQ02424,Kevalkumar,,Solanki,Male,Accounting,52270.22,50K-100K,2019-02-25 00:00:00,0.3,Permanent,"Chennai, India",7.46,Part Time
+171,VT01703,Upendra,,Swati,Male,Engineering,61624.77,50K-100K,2018-11-26 00:00:00,0.3,Fixed Term,"Hyderabad, India",7.71,Part Time
+172,SQ02703,Deepit,,Ranjana,Female,Marketing,104903.79,Above 100K,2019-07-03 00:00:00,1,Permanent,"Chennai, India",7.11,Full Time
+173,SQ03024,Inge,,Creer,Female,Services,69057.32,50K-100K,2018-10-17 00:00:00,1,Permanent,"Wellington, New Zealand",7.82,Full Time
+174,TN00735,Caresa,,Christer,Male,Support,59258.19,50K-100K,2018-12-18 00:00:00,0.8,Permanent,"Seattle, USA",7.65,Part Time
+175,VT04373,Edi,,Hofton,Male,Research and Development,28160.79,Under 50K,2018-01-29 00:00:00,1,Temporary,Remote,8.53,Full Time
+176,SQ03733,Revkah,,Antonacci,Male,Engineering,109143.17,Above 100K,2020-04-24 00:00:00,1,Permanent,"Wellington, New Zealand",6.3,Full Time
+177,VT04467,Amal,,Nimesh,Female,Marketing,70755.5,50K-100K,2020-09-16 00:00:00,0.8,Temporary,"Hyderabad, India",5.9,Part Time
+178,VT03537,Renaldo,,Thomassin,Male,Business Development,73360.38,50K-100K,2020-05-21 00:00:00,1,Temporary,Remote,6.22,Full Time
+179,VT01610,Kunja,Prashanta,Vibha,Female,Accounting,76303.82,50K-100K,2018-12-24 00:00:00,1,Fixed Term,"Hyderabad, India",7.63,Full Time
+180,PR02016,Iris,,Wagg,Female,Engineering,58861.19,50K-100K,2019-07-08 00:00:00,1,Permanent,"Columbus, USA",7.1,Full Time
+181,VT04415,Malory,,Biles,Female,Training,58744.17,50K-100K,2018-03-12 00:00:00,1,Temporary,"Columbus, USA",8.42,Full Time
+182,TN04067,Lea,,Chaplin,Female,Human Resources,73488.68,50K-100K,2019-04-15 00:00:00,1,Fixed Term,"Seattle, USA",7.33,Full Time
+183,TN04175,Hinda,,Label,Female,Human Resources,92704.48,50K-100K,2018-11-26 00:00:00,1,Fixed Term,"Columbus, USA",7.71,Full Time
+184,VT00687,Godavari,,Veena,Male,Engineering,78443.78,50K-100K,2019-05-14 00:00:00,1,Fixed Term,"Hyderabad, India",7.25,Full Time
+185,PR01269,Eleonore,,Airdrie,Female,Engineering,97105.19,50K-100K,2021-08-17 00:00:00,1,Permanent,"Columbus, USA",4.98,Full Time
+186,TN00579,Rafaelita,,Blaksland,Female,Services,109163.39,Above 100K,2020-07-07 00:00:00,0.8,Permanent,"Seattle, USA",6.1,Part Time
+187,TN03097,Bendite,,Bloan,Male,Marketing,31816.57,Under 50K,2019-02-01 00:00:00,0.3,Fixed Term,Remote,7.53,Part Time
+188,SQ02174,Sidoney,,Yitzhok,Female,Engineering,118442.54,Above 100K,2020-12-28 00:00:00,1,Permanent,"Auckland, New Zealand",5.62,Full Time
+189,PR02957,Vaughn,,Carvill,Female,Training,84745.93,50K-100K,2019-08-30 00:00:00,1,Permanent,"Wellington, New Zealand",6.95,Full Time
+190,TN02570,Grady,,Rochelle,Female,Accounting,69163.39,50K-100K,2018-10-24 00:00:00,1,Permanent,Remote,7.8,Full Time
+191,VT00596,Letisha,,Carrett,Female,Sales,84598.88,50K-100K,2020-10-12 00:00:00,1,Fixed Term,"Seattle, USA",5.83,Full Time
+192,TN01601,Melva,,Jickells,Female,Product Management,68795.48,50K-100K,2021-03-22 00:00:00,0.2,Permanent,Remote,5.39,Part Time
+193,SQ01730,Austine,,Littlewood,Female,Services,32269.91,Under 50K,2018-09-03 00:00:00,1,Permanent,Remote,7.94,Full Time
+194,TN03355,Ruby,,Cracie,Male,Research and Development,78705.93,50K-100K,2018-11-05 00:00:00,1,Fixed Term,"Seattle, USA",7.77,Full Time
+195,VT01246,Zach,,Polon,Male,Marketing,53535.62,50K-100K,2020-10-06 00:00:00,0.5,Fixed Term,"Seattle, USA",5.85,Part Time
+196,PR02275,Louise,,Lamming,Female,Sales,41934.71,Under 50K,2019-11-11 00:00:00,1,Permanent,Remote,6.75,Full Time
+197,TN04166,Tadio,,Dowdle,Female,Product Management,91929.69,50K-100K,2020-09-11 00:00:00,1,Fixed Term,Remote,5.92,Full Time
+198,SQ00070,Larissa,,Ingledow,Male,Research and Development,62281.24,50K-100K,2018-06-21 00:00:00,1,Permanent,Remote,8.14,Full Time
+199,TN01701,Yves,,Pawlik,Male,Accounting,57925.91,50K-100K,2019-04-17 00:00:00,0.5,Permanent,"Wellington, New Zealand",7.32,Part Time
+200,VT03298,Nonah,,Bissell,Male,Engineering,82239.53,50K-100K,2020-01-16 00:00:00,1,Temporary,"Columbus, USA",6.57,Full Time
+201,TN04892,Luca,,Wolstenholme,Male,Engineering,53184.02,50K-100K,2018-03-21 00:00:00,1,Fixed Term,Remote,8.39,Full Time
+202,PR01055,Devasree,Fullara,Saurin,Male,Accounting,35936.31,Under 50K,2018-05-21 00:00:00,1,Permanent,"Chennai, India",8.23,Full Time
+203,SQ04437,Hephzibah,,Summerell,Female,Services,28305.08,Under 50K,2019-10-16 00:00:00,1,Permanent,Remote,6.82,Full Time
+204,PR00770,Beryl,,Burnsyde,Male,Legal,29774.76,Under 50K,2020-10-01 00:00:00,1,Permanent,"Wellington, New Zealand",5.86,Full Time
+205,VT01762,Geena,,Raghavanpillai,Male,Accounting,102515.81,Above 100K,2020-03-12 00:00:00,1,Fixed Term,"Chennai, India",6.42,Full Time
+206,TN04428,Tadio,,Audritt,Missing,Human Resources,99448.78,50K-100K,2019-01-08 00:00:00,1,Fixed Term,"Wellington, New Zealand",7.59,Full Time
+207,TN01601,Melva,,Jickells,Female,Product Management,68795.48,50K-100K,2021-03-22 00:00:00,0.2,Permanent,Remote,5.39,Part Time
+208,TN03575,Janina,,Wolverson,Female,Research and Development,99683.67,50K-100K,2019-02-04 00:00:00,1,Fixed Term,"Seattle, USA",7.52,Full Time
+209,VT04273,Brad,,Gumb,Male,Accounting,38825.18,Under 50K,2019-08-19 00:00:00,1,Temporary,Remote,6.98,Full Time
+210,SQ00187,Rupak,,Mehra,Female,Services,71229.42,50K-100K,2020-12-01 00:00:00,1,Permanent,"Hyderabad, India",5.69,Full Time
+211,PR00113,Van,,Tuxwell,Female,Business Development,80695.74,50K-100K,2018-09-17 00:00:00,1,Permanent,"Columbus, USA",7.9,Full Time
+212,PR01383,Addi,,Studdeard,Female,Product Management,72502.61,50K-100K,2021-02-08 00:00:00,1,Permanent,"Wellington, New Zealand",5.5,Full Time
+213,TN00258,Joyce,,Leyband,Female,Product Management,68197.9,50K-100K,2020-10-15 00:00:00,1,Permanent,"Auckland, New Zealand",5.82,Full Time
+214,VT00476,Adolph,,Hartin,Male,Product Management,89960.6,50K-100K,2019-02-19 00:00:00,1,Fixed Term,"Auckland, New Zealand",7.48,Full Time
+215,TN01256,Sawini,,Chandan,Male,Legal,28481.16,Under 50K,2020-03-26 00:00:00,1,Permanent,"Hyderabad, India",6.38,Full Time
+216,VT04093,Baruna,,Ogale,Female,Training,116767.63,Above 100K,2020-04-28 00:00:00,0.4,Temporary,"Chennai, India",6.29,Part Time
+217,TN01566,Fonzie,,O'Shea,Male,Product Management,80360.41,50K-100K,2020-12-02 00:00:00,1,Permanent,Remote,5.69,Full Time
+218,PR04851,Rodina,,Drinan,Female,Sales,77045.44,50K-100K,2019-06-20 00:00:00,1,Permanent,Remote,7.15,Full Time
+219,PR00007,Torrance,,Collier,Female,Training,96135.75,50K-100K,2020-07-13 00:00:00,0.3,Permanent,"Wellington, New Zealand",6.08,Part Time
+220,SQ03491,Freda,,Legan,Female,Sales,102129.37,Above 100K,2021-07-19 00:00:00,1,Permanent,"Columbus, USA",5.06,Full Time
+221,SQ02465,Bernie,,Gorges,Female,Training,99965.97,50K-100K,2018-02-02 00:00:00,1,Permanent,Remote,8.52,Full Time
+222,VT00194,Violante,,Courtonne,Female,Product Management,49625.64,Under 50K,2021-07-07 00:00:00,0.5,Fixed Term,Remote,5.1,Part Time
+223,TN00328,Jeannie,,Petracco,Female,Engineering,94815.28,50K-100K,2018-12-06 00:00:00,1,Permanent,"Seattle, USA",7.68,Full Time
+224,PR03137,Jagajeet,,Viraj,Male,Support,36714.38,Under 50K,2020-12-10 00:00:00,1,Permanent,"Chennai, India",5.67,Full Time
+225,PR00246,Husein,,Augar,Female,Marketing,67905.8,50K-100K,2020-12-29 00:00:00,1,Permanent,Remote,5.62,Full Time
+226,SQ02371,Alida,,Welman,Male,Human Resources,69862.38,50K-100K,2018-12-24 00:00:00,1,Permanent,"Wellington, New Zealand",7.63,Full Time
+227,PR01956,Jamesy,,O'Ferris,Male,Accounting,36547.58,Under 50K,2018-11-12 00:00:00,1,Permanent,Remote,7.75,Full Time
+228,VT04350,Kulbhushan,,Moorthy,Male,Business Development,106400.02,Above 100K,2020-07-09 00:00:00,1,Temporary,"Chennai, India",6.09,Full Time
+229,SQ02035,Anni,,Izzard,Male,Human Resources,103494.94,Above 100K,2018-06-05 00:00:00,1,Permanent,Remote,8.19,Full Time
+230,TN02674,Antonetta,,Coggeshall,Male,Sales,96753.78,50K-100K,2021-10-25 00:00:00,1,Permanent,"Auckland, New Zealand",4.79,Full Time
+231,PR00113,Van,,Tuxwell,Female,Business Development,80695.74,50K-100K,2018-09-17 00:00:00,1,Permanent,"Columbus, USA",7.9,Full Time
+232,SQ00286,Ilesh,,Dasgupta,Female,Legal,61213.01,50K-100K,2021-06-18 00:00:00,1,Permanent,"Chennai, India",5.15,Full Time
+233,TN02205,Madhumati,Gazala,Soumitra,Male,Research and Development,69709.51,50K-100K,2019-01-07 00:00:00,1,Permanent,"Hyderabad, India",7.59,Full Time
+234,VT00740,Chitrasen,,Laul,Female,Research and Development,46751.7,Under 50K,2020-01-13 00:00:00,1,Fixed Term,"Hyderabad, India",6.58,Full Time
+235,PR01476,Jaishree,Atasi,Yavatkar,Male,Services,77096.05,50K-100K,2018-04-27 00:00:00,1,Permanent,"Chennai, India",8.29,Full Time
+236,TN03169,Doe,,Clubley,Female,Product Management,67818.14,50K-100K,2018-11-02 00:00:00,0.6,Fixed Term,Remote,7.78,Part Time
+237,SQ03112,Kantimoy,,Pritish,Male,Product Management,77743.15,50K-100K,2020-03-30 00:00:00,1,Permanent,"Chennai, India",6.37,Full Time
+238,PR01943,Rameshwari,,Chikodi,Male,Human Resources,48525.71,Under 50K,2018-06-13 00:00:00,1,Permanent,"Hyderabad, India",8.16,Full Time
+239,SQ02035,Anni,,Izzard,Male,Human Resources,103494.94,Above 100K,2018-06-05 00:00:00,1,Permanent,Remote,8.19,Full Time
+240,VT04350,Lalit,,Kothari,Male,Business Development,106400.02,Above 100K,2020-07-09 00:00:00,1,Temporary,"Chennai, India",6.09,Full Time
+241,VT01996,Hali,,Behnecke,Male,Human Resources,65569.36,50K-100K,2018-07-12 00:00:00,1,Fixed Term,"Auckland, New Zealand",8.08,Full Time
+242,SQ01998,Sahas,Sanabhi,Shrikant,Male,Product Management,40445.29,Under 50K,2021-07-16 00:00:00,1,Permanent,"Chennai, India",5.07,Full Time
+243,SQ04934,Pedro,St.,Hill,Male,Engineering,0,Under 50K,2021-01-11 00:00:00,0.7,Permanent,"Seattle, USA",5.58,Part Time
+244,SQ02624,Gwenneth,,Fealey,Female,Engineering,114772.32,Above 100K,2021-02-24 00:00:00,1,Permanent,"Columbus, USA",5.46,Full Time
+245,SQ02565,Konstantin,,Timblett,Female,Training,56253.81,50K-100K,2021-08-13 00:00:00,1,Permanent,"Auckland, New Zealand",4.99,Full Time
+246,SQ02582,Kaishori,Harathi,Kateel,Female,Product Management,51798.25,50K-100K,2019-07-19 00:00:00,1,Permanent,"Hyderabad, India",7.07,Full Time
+247,TN02397,Mendel,,Gentsch,Male,Human Resources,28329.77,Under 50K,2018-10-29 00:00:00,1,Permanent,"Seattle, USA",7.79,Full Time
+248,TN04265,Rushil,,Kripa,Female,Training,93964.3,50K-100K,2021-09-15 00:00:00,0.4,Fixed Term,"Hyderabad, India",4.9,Part Time
+249,TN02204,Aldrich,,Glenny,Male,Business Development,90884.32,50K-100K,2020-07-27 00:00:00,0.5,Permanent,"Columbus, USA",6.04,Part Time
+250,PR01306,Patti,,Dradey,Male,Services,84742.86,50K-100K,2020-09-24 00:00:00,1,Permanent,"Auckland, New Zealand",5.88,Full Time
+251,VT03771,Marjie,,Bamford,Male,Sales,80772.92,50K-100K,2020-11-02 00:00:00,1,Temporary,Remote,5.77,Full Time
+252,SQ04613,Sarojini,,Naueshwara,Female,Human Resources,85264.38,50K-100K,2018-04-30 00:00:00,1,Permanent,"Chennai, India",8.28,Full Time
+253,VT03421,Alic,,Bagg,Male,Legal,113747.56,Above 100K,2021-03-15 00:00:00,0.7,Temporary,"Columbus, USA",5.41,Part Time
+254,PR02436,Marmaduke,,Worssam,Female,Engineering,78378.2,50K-100K,2018-12-31 00:00:00,0.4,Permanent,Remote,7.61,Part Time
+255,VT00534,Roselle,,Wandrach,Male,Sales,91314.75,50K-100K,2020-04-10 00:00:00,1,Fixed Term,"Seattle, USA",6.34,Full Time
+256,PR03804,Sartaj,,Probal,Male,Legal,66572.58,50K-100K,2020-12-28 00:00:00,1,Permanent,"Chennai, India",5.62,Full Time
+257,TN01396,Koral,,Gerriet,Male,Support,30077.45,Under 50K,2019-01-09 00:00:00,1,Permanent,"Wellington, New Zealand",7.59,Full Time
+258,TN02377,Anjela,,Spancock,Missing,Accounting,98012.63,50K-100K,2019-11-11 00:00:00,1,Permanent,Remote,6.75,Full Time
+259,PR03532,Crawford,,Scad,Male,Human Resources,72876.91,50K-100K,2020-01-07 00:00:00,1,Permanent,Remote,6.59,Full Time
+260,TN02988,Mahindra,,Sreedharan,Male,Engineering,92943.89,50K-100K,2021-11-10 00:00:00,1,Permanent,"Hyderabad, India",4.75,Full Time
+261,VT04905,Suchira,Bhanupriya,Tapti,Female,Human Resources,29808.07,Under 50K,2018-07-10 00:00:00,0.3,Temporary,"Hyderabad, India",8.09,Part Time
+262,PR04366,Carry,,Loblie,Female,Sales,47551.89,Under 50K,2019-01-03 00:00:00,1,Permanent,"Auckland, New Zealand",7.61,Full Time
+263,TN03032,Fullara,Sushanti,Mokate,Female,Research and Development,39700.82,Under 50K,2021-01-07 00:00:00,0.8,Permanent,"Chennai, India",5.59,Part Time
+264,TN04775,Hridaynath,,Tendulkar,Female,Legal,31089.22,Under 50K,2019-11-07 00:00:00,1,Fixed Term,"Chennai, India",6.76,Full Time
+265,SQ03625,Fidela,,Artis,Female,Sales,78020.39,50K-100K,2020-03-09 00:00:00,1,Permanent,Remote,6.42,Full Time
